@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Python\\Desktop\\VariousCoding\\Various\\CodingChallenges\\CodingChallenges.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Python\\Desktop\\VariousCoding\\Various\\CodingChallenges\\CodingChallenges.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Python\\Desktop\\VariousCoding\\Various\\CodingChallenges\\CodingChallenges.csproj",
+        "projectName": "CodingChallenges",
+        "projectPath": "C:\\Users\\Python\\Desktop\\VariousCoding\\Various\\CodingChallenges\\CodingChallenges.csproj",
+        "packagesPath": "C:\\Users\\Python\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Python\\Desktop\\VariousCoding\\Various\\CodingChallenges\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Python\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\bin\Debug\net7.0\CodingChallenges.exe
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\bin\Debug\net7.0\CodingChallenges.deps.json
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\bin\Debug\net7.0\CodingChallenges.runtimeconfig.json
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\bin\Debug\net7.0\CodingChallenges.dll
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\bin\Debug\net7.0\CodingChallenges.pdb
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\obj\Debug\net7.0\CodingChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\obj\Debug\net7.0\CodingChallenges.AssemblyInfoInputs.cache
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\obj\Debug\net7.0\CodingChallenges.AssemblyInfo.cs
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\obj\Debug\net7.0\CodingChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\obj\Debug\net7.0\CodingChallenges.dll
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\obj\Debug\net7.0\refint\CodingChallenges.dll
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\obj\Debug\net7.0\CodingChallenges.pdb
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\obj\Debug\net7.0\CodingChallenges.genruntimeconfig.cache
+C:\Users\Python\Desktop\VariousCoding\Various\CodingChallenges\obj\Debug\net7.0\ref\CodingChallenges.dll
