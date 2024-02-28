@@ -34,7 +34,7 @@ class SubscriberTracker
         }
     }
 
-    public int Query(int start, int end)
+    private int Query(int start, int end)
     {
         int totalSubscribers = 0;
         for (int i = start; i <= end; i++)
