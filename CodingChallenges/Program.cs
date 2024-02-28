@@ -4,7 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        /*
         SubscriberTracker tracker = new SubscriberTracker();
         tracker.ExecuteTask();
        
@@ -21,7 +20,7 @@ class Program
         prodArray.ExecuteTask();
 
         FindMin findMin = new();
-        findMin.ExecuteTask();*/
+        findMin.ExecuteTask();
 
         Sum sum = new();
         sum.ExecuteTask();
